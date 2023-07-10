@@ -1,0 +1,15 @@
+/* styles.css */
+
+* {
+
+    color: red;
+}
+
+body {
+    background-color: black;
+}
+
+#test {
+
+    color: white;
+}
